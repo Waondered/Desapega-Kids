@@ -1,6 +1,6 @@
 # Desapega Kids
 
-**Desapega Kids** é um projeto em desenvolvimento voltado para [descrever o objetivo principal do projeto, ex.: comércio infantil, plataforma de trocas, educação, etc.]. O projeto busca criar uma experiência segura, intuitiva e divertida para crianças, pais e responsáveis, oferecendo [breve descrição de funcionalidades ou proposta de valor].  
+**Desapega Kids** é um projeto em desenvolvimento voltado para facilitar a doação e troca de itens infantis usados, como roupas, brinquedos e livros. O projeto busca criar uma experiência segura, intuitiva e divertida para crianças, pais e responsáveis, oferecendo cadastro de usuários, fluxo de doações organizado com apoio de ONGs parceiras, pontos de retirada confiáveis e acompanhamento das transações, promovendo consumo consciente e apoio à comunidade.
 
 ## Desenvolvedores
 
@@ -24,7 +24,10 @@ O projeto está sendo desenvolvido por:
 
 ## Tecnologias utilizadas
 
-- [Descrever linguagens, frameworks ou bibliotecas principais, ex.: Node.js, Firebase, React, etc.]  
+- Node.js
+- Express.js
+- Firebase
+- HTML5 e CSS3
 
 ## Como contribuir
 
